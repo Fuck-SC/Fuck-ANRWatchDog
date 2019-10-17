@@ -1,0 +1,2 @@
+# Fuck-ANRWatchDog
+一个简单的ANR检测框架，了解ANR检测原理，深入理解ActivityThread中的消息循环机制
